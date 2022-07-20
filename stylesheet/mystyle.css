@@ -1,0 +1,76 @@
+p,li {
+    
+    font-size: 17px;
+    
+    line-height: 2;
+    
+    letter-spacing: 1px;
+    
+}
+
+h1{
+    
+    font-size: 65px;
+    
+    text-align: center;
+    
+    margin: 0;
+    
+    padding: 20px 0;
+    
+    color: deepskyblue;
+        
+    text-shadow: 3px 3px 1px  black;
+}
+
+
+#quote{
+    
+    font-style: italic;
+   
+}
+
+.para{
+    
+    font-size: 25px;
+    
+    color: blue;
+    
+    font-family: Arial, Helvetica, Times;
+    
+    font-weight: bold;
+
+}
+
+
+body{
+    
+    margin: 0 auto;
+    
+    padding: 0 20px 20px 20px;
+    
+    width: 600px;
+    
+    border:4px solid black;
+    
+    background-color: yellow;
+    
+    
+}
+
+
+html{
+    
+    background-color: #27fff8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px,
+    
+}
+
+img{
+    
+    display: block;
+    
+    margin: 0 auto;
+    
+}
